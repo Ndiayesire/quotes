@@ -1,2 +1,3 @@
-# quotes
-Simple app Quotes  about Islam
+# SIMPLE APP QUOTES ABOUT ISLAM
+
+Simple App Quotes  About Islam
