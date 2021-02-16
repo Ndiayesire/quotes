@@ -4,4 +4,4 @@ Simple App Quotes  About Islam
 
 # PREVIEW
 
-![Image](https://github.com/Ndiayesire/Crud-with-modal-and-Data-analytics/blob/master/splash.png)
+![Image](https://github.com/Ndiayesire/quotes/blob/master/splash.png)
