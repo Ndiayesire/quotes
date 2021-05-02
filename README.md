@@ -4,7 +4,7 @@ Simple App Quotes  About Islam
 
 # PREVIEW
 
-![Image](https://github.com/Ndiayesire/quotes/blob/main/splash.jpeg)
+
 
 ![Image](https://github.com/Ndiayesire/quotes/blob/main/1.jpeg)
 
